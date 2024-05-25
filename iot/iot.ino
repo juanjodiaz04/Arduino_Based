@@ -6,8 +6,8 @@
 const char* ssid = "BLA BLA";                        //SSID.
 const char* password = "BLA BLA";                //Password.
 
-unsigned long channelID = 2173486;                //ID ThinksSpeak.
-const char* WriteAPIKey = "MPKGS9A622L5LPGG";     //APIKey.
+unsigned long channelID = 1234567;                //ID ThinksSpeak.
+const char* WriteAPIKey = "-----------";     //APIKey.
 
 WiFiClient cliente;
 
